@@ -1,0 +1,17 @@
+{
+  "name": "openaibot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "openaibot.js",
+  "scripts": {
+    "start": "node openaibot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "13.10.3",
+    "dotenv": "^16.0.1",
+    "openai": "^3.0.0"
+  }
+}
